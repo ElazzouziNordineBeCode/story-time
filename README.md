@@ -1,2 +1,6 @@
 # story-time
 Story time
+
+NORDINE STORY 1
+NORDINE STORY 2
+NORDINE STORY 3
